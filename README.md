@@ -27,7 +27,7 @@ Analysis of student performance data from Qiyas (القياس), the Saudi Arabia
 
 1. استنساخ المستودع | Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Data-analysis-of-students-results-in-Qiyas.git
+git clone https://github.com/mhuwaimel/Data-analysis-of-students-results-in-Qiyas.git
 cd Data-analysis-of-students-results-in-Qiyas
 ```
 
