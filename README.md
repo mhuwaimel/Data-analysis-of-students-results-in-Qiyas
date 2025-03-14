@@ -2,7 +2,7 @@
 # Data Analysis of Students Results in Qiyas
 
 ## نظرة عامة | Overview
-تحليل بيانات أداء الطلاب من قياس (المركز الوطني للقياس) في المملكة العربية السعودية. يتضمن التحليل دراسة درجات الاختبار والتوزيعات الإقليمية وأداء الإدارات التعليمية في جميع أنحاء المملكة.
+تحليل بيانات أداء الطلاب من قياس (المركز الوطني للقياس) في المملكة العربية السعودية. يتضمن التحليل دراسة درجات الاختبار وأداء إدرات التعليم في جميع أنحاء المملكة.
 
 Analysis of student performance data from Qiyas (القياس), the Saudi Arabian National Center for Assessment. The analysis includes examination of test scores, regional distributions, and educational department performance across Saudi Arabia.
 
