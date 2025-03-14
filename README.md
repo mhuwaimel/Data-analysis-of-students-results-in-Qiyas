@@ -44,11 +44,6 @@ source venv/bin/activate
 
 3. تثبيت المكتبات المطلوبة | Install required libraries:
 ```bash
-pip install -r requirements.txt
-```
-
-أو تثبيت المكتبات مباشرة | Or install libraries directly:
-```bash
 pip install pandas matplotlib seaborn sklearn jupyter
 ```
 
